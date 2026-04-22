@@ -1,5 +1,6 @@
 # IS-Project-PTIT
 Dưới đây là các dự án học thuật của tôi trong quá trình học tập tại PTIT:
+
 **1. Kiểm thử xâm nhập hệ thống tích hợp và triển khai liên tục Jenkins**
 - Nghiên cứu và phân tích hai lỗ hổng bảo mật nghiêm trọng: lỗ hổng đọc tệp tùy ý qua giao diện dòng lệnh (CVE-2024-23897) và lỗ hổng nâng cao đặc quyền nhân hệ điều hành Linux (CVE-2024-1086)
 - Thiết kế mô hình mạng thực tế gồm 5 máy ảo (tường lửa pfSense, máy tấn công, máy chủ Jenkins mục tiêu, máy chủ web, cơ sở dữ liệu) và triển khai toàn bộ môi trường thử nghiệm
